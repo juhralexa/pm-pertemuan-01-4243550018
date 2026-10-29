@@ -19,7 +19,7 @@ Aplikasi menampilkan teks Hello World, nama mahasiswa, NIM, kelas, ikon, dan tom
 - Visual Studio Code
 - Android Emulator
 
-## ## Versi Flutter
+## Versi Flutter
 
 - Flutter: 3.47.8
 - Dart: 3.13.7
