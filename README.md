@@ -41,8 +41,6 @@ Lampirkan screenshot hasil pemeriksaan Flutter Doctor pada bagian ini.
 Berikut tampilan aplikasi Hello World yang berhasil dijalankan pada Android Emulator.
 
 ![Tampilan Aplikasi Hello World](screenshots/hello-world-flutter.png)
-```
-
 ## Kendala dan Solusi
 
 ### 1. Versi NDK Tidak Sesuai
