@@ -19,31 +19,27 @@ Aplikasi menampilkan teks Hello World, nama mahasiswa, NIM, kelas, ikon, dan tom
 - Visual Studio Code
 - Android Emulator
 
-## Versi Flutter
+## ## Versi Flutter
 
-Jalankan perintah berikut untuk melihat versi Flutter yang digunakan:
+- Flutter: 3.47.8
+- Dart: 3.13.7
 
-```bash
-flutter --version
-```
+Informasi versi diperoleh melalui perintah `flutter --version`.
 
 *Lengkapi bagian ini menggunakan hasil perintah pada komputer.*
 
 ## Bukti Pemeriksaan Environment
 
-Jalankan perintah berikut:
+Pemeriksaan environment dilakukan menggunakan perintah `flutter doctor`.
 
-```bash
-flutter doctor
-```
+![Hasil Flutter Doctor](screenshots/flutter-doctor.png)
 
 Lampirkan screenshot hasil pemeriksaan Flutter Doctor pada bagian ini.
 
 ## Screenshot Aplikasi
 
-Simpan screenshot aplikasi yang berhasil dijalankan pada folder `screenshots/`, lalu tampilkan menggunakan:
+Berikut tampilan aplikasi Hello World yang berhasil dijalankan pada Android Emulator.
 
-```markdown
 ![Tampilan Aplikasi Hello World](screenshots/hello-world-flutter.png)
 ```
 
